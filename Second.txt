@@ -1,1 +1,11 @@
 this is the second file i am using for git practice
+
+
+today we are learning git tags--
+
+git tag
+--------
+
+
+A Git tag is a label used to mark a specific commit in Git history, 
+usually to identify important versions or releases of a project.
